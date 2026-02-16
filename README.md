@@ -1,7 +1,7 @@
 # Ridge_and_lasso_regression_using_house_price_prediction
 # 📌 Project Overview
 
-This project builds a Machine Learning model to predict house prices based on multiple features such as area, number of rooms, house age, and location.The objective is to:Apply feature engineering, Prevent overfitting using regularization, Compare Ridge and Lasso regression models, Evaluate model performance using multiple metrics .
+This project builds a Machine Learning model to predict house prices based on multiple features such as area, number of rooms, house age, and location.The objective is to : Apply feature engineering, Prevent overfitting using regularization, Compare Ridge and Lasso regression models, Evaluate model performance using multiple metrics.
 # 🎯 Problem Statement
 
 Real estate companies need accurate house price predictions to make informed business decisions.This project aims to build a regression model that predicts house prices using structured data.
@@ -59,4 +59,4 @@ Hyperparameter tuning using GridSearchCV ,
 Add Random Forest and Gradient Boosting models ,
 Deploy model using Flask or Streamlit .
 
-Scikit-learn
+
